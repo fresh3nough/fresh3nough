@@ -13,7 +13,7 @@
 ---
 
 ## About
-Software engineer with 3+ years of experience delivering software solutions through collaboration and technical problem‑solving. Focused on debugging, performance optimization, and building reliable systems that help teams move fast without breaking things.
+Software engineer with 12+ years of experience delivering software solutions through collaboration and technical problem‑solving. Focused on debugging, performance optimization, and building reliable systems that help teams move fast without breaking things.
 
 ## Experience
 - **SES AI** — Software Engineer (Jan 2025 – Oct 2025)
