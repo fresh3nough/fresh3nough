@@ -8,7 +8,6 @@
 <h3 align="center">Software Engineer @ SES AI | Software Development</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/codyrwirth">LinkedIn</a>
 </p>
 
 ---
