@@ -8,7 +8,7 @@
 <h3 align="center">Software Engineer @ SES AI | Software Development</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/codywirth/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/codyrowirth/">LinkedIn</a>
 </p>
 
 ---
@@ -53,8 +53,8 @@ Exploring and learning through forks and community projects:
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fresh3nough&show_icons=true&hide_title=true&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com?user=fresh3nough&theme=tokyonight" height="160" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=fresh3nough&show_icons=true&hide_title=true&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=fresh3nough&theme=tokyonight" height="160" /> -->
 </div>
 
 <div align="center">
