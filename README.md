@@ -32,6 +32,7 @@ Software engineer with 12+ years of experience delivering software solutions thr
 
 ## Education
 - **Denison University**
+- **The Ohio State University**
 
 ## Open‑source Interests
 Exploring and learning through forks and community projects:
@@ -39,11 +40,3 @@ Exploring and learning through forks and community projects:
 - **Cashu:** [nutshell](https://github.com/fresh3nough/nutshell), [cashu.me](https://github.com/fresh3nough/cashu.me), [nuts](https://github.com/fresh3nough/nuts)
 - **Privacy/Filtering:** [adblock-rust](https://github.com/fresh3nough/adblock-rust)
 - **Nostr:** [notedeck](https://github.com/fresh3nough/notedeck)
-
-## Tech Stack (recently exploring)
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
