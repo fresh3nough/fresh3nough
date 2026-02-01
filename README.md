@@ -34,8 +34,8 @@ Software engineer with 12+ years of experience delivering software solutions thr
 - **Denison University**
 - **The Ohio State University**
 
-## Open‑source Interests
-Exploring and learning through forks and community projects:
+## Open‑source Contributions
+Exploring and comitting through forks and community projects:
 - **Lightning Network:** [lnd](https://github.com/fresh3nough/lnd), [rust-lightning](https://github.com/fresh3nough/rust-lightning)
 - **Cashu:** [nutshell](https://github.com/fresh3nough/nutshell), [cashu.me](https://github.com/fresh3nough/cashu.me), [nuts](https://github.com/fresh3nough/nuts)
 - **Privacy/Filtering:** [adblock-rust](https://github.com/fresh3nough/adblock-rust)
