@@ -40,3 +40,6 @@ Exploring and comitting through forks and community projects:
 - **Cashu:** [nutshell](https://github.com/fresh3nough/nutshell), [cashu.me](https://github.com/fresh3nough/cashu.me), [nuts](https://github.com/fresh3nough/nuts)
 - **Privacy/Filtering:** [adblock-rust](https://github.com/fresh3nough/adblock-rust)
 - **Nostr:** [notedeck](https://github.com/fresh3nough/notedeck)
+- **BitChat**: [bitchat](https://github.com/permissionlesstech/bitchat)
+
+
