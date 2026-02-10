@@ -41,5 +41,7 @@ Exploring and comitting through forks and community projects:
 - **Privacy/Filtering:** [adblock-rust](https://github.com/fresh3nough/adblock-rust)
 - **Nostr:** [notedeck](https://github.com/fresh3nough/notedeck)
 - **BitChat**: [bitchat](https://github.com/permissionlesstech/bitchat)
+- **Meshtastic**: [meshtastic](https://github.com/meshtastic)
+
 
 
