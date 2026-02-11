@@ -44,4 +44,5 @@ Exploring and comitting through forks and community projects:
 - **Meshtastic**: [meshtastic](https://github.com/meshtastic)
 - **Heltec**: [heltec](https://github.com/HelTecAutomation)
 - **Goose**: [goose](https://github.com/block/goose)
+- **GitHub cli**: [github cli](https://github.com/cli/cli)
 
