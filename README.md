@@ -45,4 +45,5 @@ Exploring and comitting through forks and community projects:
 - **Heltec**: [heltec](https://github.com/HelTecAutomation)
 - **Goose**: [goose](https://github.com/block/goose)
 - **GitHub cli**: [github cli](https://github.com/cli/cli)
+- **Session**: [session](https://github.com/session-foundation/)
 
