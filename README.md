@@ -46,4 +46,6 @@ Exploring and comitting through forks and community projects:
 - **Goose**: [goose](https://github.com/block/goose)
 - **GitHub cli**: [github cli](https://github.com/cli/cli)
 - **Session**: [session](https://github.com/session-foundation/)
+- **Google**: [google](https://github.com/google/zx/)
+- **Meta**: [meta](https://github.com/meta/zstd)
 
