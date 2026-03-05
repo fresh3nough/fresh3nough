@@ -36,16 +36,9 @@ Software engineer with 12+ years of experience delivering software solutions thr
 
 ## Open‑source Contributions
 Exploring and comitting through forks and community projects:
-- **Lightning Network:** [lnd](https://github.com/fresh3nough/lnd), [rust-lightning](https://github.com/fresh3nough/rust-lightning)
 - **Cashu:** [nutshell](https://github.com/fresh3nough/nutshell), [cashu.me](https://github.com/fresh3nough/cashu.me), [nuts](https://github.com/fresh3nough/nuts)
-- **Privacy/Filtering:** [adblock-rust](https://github.com/fresh3nough/adblock-rust)
-- **Nostr:** [notedeck](https://github.com/fresh3nough/notedeck)
-- **BitChat**: [bitchat](https://github.com/permissionlesstech/bitchat)
 - **Meshtastic**: [meshtastic](https://github.com/meshtastic)
-- **Heltec**: [heltec](https://github.com/HelTecAutomation)
-- **Goose**: [goose](https://github.com/block/goose)
-- **GitHub cli**: [github cli](https://github.com/cli/cli)
-- **Session**: [session](https://github.com/session-foundation/)
+- **Block**: [goose](https://github.com/block/goose)
 - **Google**: [google](https://github.com/google/zx/)
 - **Meta**: [meta](https://github.com/meta/zstd)
 
