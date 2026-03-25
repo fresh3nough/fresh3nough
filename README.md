@@ -16,6 +16,7 @@
 Software engineer with 12+ years of experience delivering software solutions through collaboration and technical problem‑solving. Focused on debugging, performance optimization, and building reliable systems that help teams move fast without breaking things.
 
 ## Experience
+- **Right Insight** — Software Engineer (Feb 2026 – present)
 - **SES AI** — Software Engineer (Jan 2025 – Oct 2025)
 - **Mercor** — Software Engineer, Contract (Jan 2024 – Jan 2025)
 - **Blyss Social** — Software Engineer, Contract (Jan 2024 – Jan 2025)
@@ -41,4 +42,6 @@ Exploring and comitting through forks and community projects:
 - **Block**: [goose](https://github.com/block/goose)
 - **Google**: [google](https://github.com/google/zx/)
 - **Meta**: [meta](https://github.com/meta/zstd)
+- **Session**: [Session](https://github.com/session-foundation/session-desktop)
+
 
