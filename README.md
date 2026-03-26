@@ -1,13 +1,5 @@
 <div align="center">
-  <div style="position: relative; max-width: 1100px; margin: 20px auto;">
-    <div style="background: linear-gradient(90deg, #39FF14, #FF1493); height: 215px; display: flex; align-items: center; justify-content: center; color: white; font-size: 56px; font-weight: 800; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; letter-spacing: -2px; border-radius: 16px 16px 0 0; box-shadow: 0 10px 30px rgba(0,0,0,0.1); position: relative; overflow: hidden;">
-      Cody Wirth
-    </div>
-    <!-- Wave effect -->
-    <svg style="position:absolute; bottom:0; left:0; width:100%; height:85px;" viewBox="0 0 1440 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path fill="#ffffff" fill-opacity="0.25" d="M0,64L48,85.3C96,107,192,149,288,149.3C384,149,480,107,576,90.7C672,75,768,85,864,96C960,107,1056,117,1152,101.3C1248,85,1344,43,1392,21.3L1440,0L1440,120L0,120Z"></path>
-    </svg>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:FF1493&height=200&section=header&text=Cody%20Wirth&fontSize=48&fontColor=ffffff&animation=twinkling" alt="header" />
 </div>
 
 <h3 align="center">Software Engineer @ SES AI | Software Development</h3>
