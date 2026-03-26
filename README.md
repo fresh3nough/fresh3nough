@@ -8,9 +8,6 @@
 
 <hr style="border:1px solid #00FFFF;box-shadow:0 0 15px #00FFFF;">
 
-<h2 style="color:#39FF14;text-shadow:0 0 12px #39FF14,0 0 25px #39FF14;font-family:monospace;">📡 ABOUT</h2>
-<p style="color:#FFFFFF;font-family:monospace;">Software engineer with 12+ years of experience delivering software solutions through collaboration and technical problem‑solving. Focused on debugging, performance optimization, and building reliable systems that help teams move fast without breaking things.</p>
-
 <h2 style="color:#FFFF00;text-shadow:0 0 12px #FFFF00,0 0 25px #FFFF00;font-family:monospace;">🔥 EXPERIENCE</h2>
 <ul style="color:#FFFFFF;font-family:monospace;list-style:none;">
   <li>🚀 <strong>Right Insight</strong> — Software Engineer (Feb 2026 – present)</li>
