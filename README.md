@@ -1,4 +1,4 @@
-[Imgur](https://imgur.com/XQYyj2F)
+<img src="https://i.imgur.com/XQYyj2F.jpg" alt="Cloud Money Tech" width="100%">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:FF1493&height=200&section=header&text=Cody%20Wirth&fontSize=48&fontColor=ffffff&animation=twinkling" alt="header" />
