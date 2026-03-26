@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:FF1493&height=200&section=header&text=Cody%20Wirth&fontSize=48&fontColor=ffffff&animation=twinkling" alt="header" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:FF1493&height=200&section=header&text=Cody%20Wirth&fontSize=48&fontColor=ffffff&animation=twinkling" alt="header" />
-</div>
-
 <h3 align="center" style="color:#FF1493;text-shadow:0 0 15px #FF1493,0 0 30px #FF1493;font-family:monospace;">⚡ Software Engineer @ SES AI | Software Development ⚡</h3>
 
 <hr style="border:1px solid #00FFFF;box-shadow:0 0 15px #00FFFF;">
