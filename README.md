@@ -30,6 +30,7 @@ Software engineer with 12+ years of experience delivering software solutions thr
 - **Komodo Analytics** — Software Engineer (Jan 2019 – Jan 2021)
 - **Bergio** — Software Engineer (Feb 2018 – Mar 2020)
 - **nChannel** — Software Engineer (Jan 2016 – Jan 2018)
+- **Meta (facebook)** — Software Engineer (Jan 2015 – Jan 2016)
 
 ## Education
 - **Denison University**
@@ -39,7 +40,7 @@ Software engineer with 12+ years of experience delivering software solutions thr
 Exploring and comitting through forks and community projects:
 - **Cashu:** [nutshell](https://github.com/fresh3nough/nutshell), [cashu.me](https://github.com/fresh3nough/cashu.me), [nuts](https://github.com/fresh3nough/nuts)
 - **Meshtastic**: [meshtastic](https://github.com/meshtastic)
-- **Block**: [goose](https://github.com/block/goose)
+- **Block (The Linux Foundation)**: [goose](https://github.com/block/goose)
 - **Google**: [google](https://github.com/google/zx/)
 - **Meta**: [meta](https://github.com/meta/zstd)
 - **Session**: [Session](https://github.com/session-foundation/session-desktop)
