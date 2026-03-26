@@ -31,7 +31,7 @@
 </ul>
 
 <h2 style="color:#00FFFF;text-shadow:0 0 12px #00FFFF,0 0 25px #00FFFF;font-family:monospace;">📍 EDUCATION</h2>
-<p style="color:#FFFFFF;font-family:monospace;">• Denison University<br>• The Ohio State University, Central Ohio Technical College</p>
+<p style="color:#FFFFFF;font-family:monospace;">• Denison University<br>• The Ohio State University<br>• Central Ohio Technical College</p>
 
 <h2 style="color:#FF00FF;text-shadow:0 0 12px #FF00FF,0 0 25px #FF00FF;font-family:monospace;">🌐 OPEN‑SOURCE CONTRIBUTIONS</h2>
 <p style="color:#FFFFFF;font-family:monospace;">Exploring and committing through forks and community projects:</p>
