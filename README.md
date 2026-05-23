@@ -18,7 +18,6 @@
   <li>📡 <strong>Upwork</strong> — Software Engineer, Contract (Jan 2023 – Jan 2025)</li>
   <li>🔬 <strong>PAIGE</strong> — Software Engineer (Jan 2023 – Jan 2024)</li>
   <li>🔬 <strong>tuzag, inc.</strong> — Software Engineer (Apr 2022 – Feb 2023)</li>
-  <li>🔬 <strong>Code.org</strong> — Software Engineer Mentor (Jan 2022 – Jan 2023)</li>
   <li>🧬 <strong>Apollo Art</strong> — Software Engineer (Mar 2020 – May 2022)</li>
   <li>🧬 <strong>WhenLeave</strong> — Software Engineer (Jan 2019 – Jan 2021)</li>
   <li>🧬 <strong>Komodo Analytics</strong> — Software Engineer (Jan 2019 – Jan 2021)</li>
