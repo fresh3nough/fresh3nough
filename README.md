@@ -10,9 +10,10 @@
 
 <h2 style="color:#FFFF00;text-shadow:0 0 12px #FFFF00,0 0 25px #FFFF00;font-family:monospace;">🔥 EXPERIENCE</h2>
 <ul style="color:#FFFFFF;font-family:monospace;list-style:none;">
+  <li>🚀 <strong>Shipd AI</strong> — Software Engineer (June 2026 – present )</li>
   <li>🚀 <strong>Right Insight</strong> — Software Engineer (Feb 2026 – June 2026)</li>
   <li>🔋 <strong>SES AI</strong> — Software Engineer (Jan 2025 – Oct 2025)</li>
-  <li>📡 <strong>Mercor</strong> — Software Engineer, Contract (Jan 2024 – Jan 2025)</li>
+  <li>📡 <strong>Mercor</strong> — Software Engineer, Contract (Jan 2024 – Jul 2026)</li>
   <li>📡 <strong>Blyss Social</strong> — Software Engineer, Contract (Jan 2024 – Jan 2025)</li>
   <li>📡 <strong>Outlier AI</strong> — Software Engineer, Contract (Jan 2024 – Jan 2025)</li>
   <li>📡 <strong>Upwork</strong> — Software Engineer, Contract (Jan 2023 – Jan 2025)</li>
