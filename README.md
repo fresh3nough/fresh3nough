@@ -29,7 +29,6 @@
 <h2 style="color:#FF00FF;text-shadow:0 0 12px #FF00FF,0 0 25px #FF00FF;font-family:monospace;">🌐 OPEN‑SOURCE CONTRIBUTIONS</h2>
 <p style="color:#FFFFFF;font-family:monospace;">Exploring and committing through forks and community projects:</p>
 <ul style="color:#FFFFFF;font-family:monospace;list-style:none;">
-  <li>💰 <strong>Cashu:</strong> <a href="https://github.com/fresh3nough/nutshell" style="color:#39FF14;">nutshell</a>, <a href="https://github.com/fresh3nough/cashu.me" style="color:#39FF14;">cashu.me</a>, <a href="https://github.com/fresh3nough/nuts" style="color:#39FF14;">nuts</a></li>
   <li>📡 <strong>Meshtastic</strong>: <a href="https://github.com/meshtastic" style="color:#39FF14;">meshtastic</a></li>
   <li>🧬 <strong>Block (The Linux Foundation)</strong>: <a href="https://github.com/block/goose" style="color:#39FF14;">goose</a></li>
   <li>🔍 <strong>Google</strong>: <a href="https://github.com/google/zx/" style="color:#39FF14;">zx</a></li>
