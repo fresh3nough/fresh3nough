@@ -12,7 +12,6 @@
   <li>🧬 <strong>Komodo Analytics</strong> — Software Engineer (Jan 2019 – Jan 2021)</li>
   <li>🧬 <strong>Bergio</strong> — Software Engineer (Feb 2018 – Mar 2020)</li>
   <li>🧬 <strong>nChannel</strong> — Software Engineer (Jan 2016 – Jan 2018)</li>
-  <li>🧬 <strong>Meta (facebook)</strong> — Software Engineer (Jan 2015 – Jan 2016)</li>
 </ul>
 
 <h2 style="color:#00FFFF;text-shadow:0 0 12px #00FFFF,0 0 25px #00FFFF;font-family:monospace;">📍 EDUCATION</h2>
