@@ -18,14 +18,3 @@
 <h2 style="color:#00FFFF;text-shadow:0 0 12px #00FFFF,0 0 25px #00FFFF;font-family:monospace;">📍 EDUCATION</h2>
 <p style="color:#FFFFFF;font-family:monospace;">• Denison University<br>• The Ohio State University<br>• Central Ohio Technical College</p>
 
-<h2 style="color:#FF00FF;text-shadow:0 0 12px #FF00FF,0 0 25px #FF00FF;font-family:monospace;">🌐 OPEN‑SOURCE CONTRIBUTIONS</h2>
-<p style="color:#FFFFFF;font-family:monospace;">Exploring and committing through forks and community projects:</p>
-<ul style="color:#FFFFFF;font-family:monospace;list-style:none;">
-  <li>📡 <strong>Meshtastic</strong>: <a href="https://github.com/meshtastic" style="color:#39FF14;">meshtastic</a></li>
-  <li>🧬 <strong>Block (The Linux Foundation)</strong>: <a href="https://github.com/block/goose" style="color:#39FF14;">goose</a></li>
-  <li>🔍 <strong>Google</strong>: <a href="https://github.com/google/zx/" style="color:#39FF14;">zx</a></li>
-  <li>📡 <strong>Meta</strong>: <a href="https://github.com/meta/zstd" style="color:#39FF14;">zstd</a></li>
-  <li>🔐 <strong>Session</strong>: <a href="https://github.com/session-foundation/session-desktop" style="color:#39FF14;">Session</a></li>
-</ul>
-
-
